@@ -11,7 +11,11 @@
 
 <!-- Description of Template -->
 <p>
- Lorem ipsume
+Monster Bootstrap Admin Lite is fully responsive based on bootstrap framework and ready to use <a href="https://www.wrappixel.com/templates/category/admin-template/">dashboard template</a> for your web application.
+</p>
+
+<p>
+    Though it’s a free template but does wonder even for small instances. The simple and sober color palette it provides has the potential eye-catching vibrancy and capability to create data visualizations that are easy to read at no extra cost. This template is complete in itself for mid-level projects but if your concern is the comprehensive use of features and components then you can look for a premium bootstrap 4 admin dashboard template from WrapPixel.
 </p>
 
 <!-- <h4><a href="https://wrappixel.com/demos/free-admin-templates/monster-admin-lite/monster-html/index.html">Free Version Demo Link</a></h4> -->

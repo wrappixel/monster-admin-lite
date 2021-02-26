@@ -7,7 +7,7 @@
     <!-- Tell the browser to be responsive to screen width -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords"
-        content="wrappixel, admin dashboard, html css dashboard, web dashboard, bootstrap 4 admin, bootstrap 4, css3 dashboard, bootstrap 4 dashboard, Monsterlite admin bootstrap 4 dashboard, frontend, responsive bootstrap 4 admin template, Monster admin lite design, Monster admin lite dashboard bootstrap 4 dashboard template">
+        content="wrappixel, admin dashboard, html css dashboard, web dashboard, bootstrap 5 admin, bootstrap 5, css3 dashboard, bootstrap 5 dashboard, Monsterlite admin bootstrap 5 dashboard, frontend, responsive bootstrap 5 admin template, Monster admin lite design, Monster admin lite dashboard bootstrap 5 dashboard template">
     <meta name="description"
         content="Monster Lite is powerful and clean admin dashboard template, inpired from Bootstrap Framework">
     <meta name="robots" content="noindex,nofollow">
@@ -78,22 +78,17 @@
                 <!-- End Logo -->
                 <!-- ============================================================== -->
                 <div class="navbar-collapse collapse" id="navbarSupportedContent" data-navbarbg="skin5">
-                    <ul class="navbar-nav d-none d-md-block d-lg-none">
-                        <li class="nav-item">
-                            <a class="nav-toggler nav-link waves-effect waves-light text-white"
-                                href="javascript:void(0)"><i class="ti-menu ti-close"></i></a>
-                        </li>
-                    </ul>
+                    
                     <!-- ============================================================== -->
                     <!-- toggle and nav items -->
                     <!-- ============================================================== -->
-                    <ul class="navbar-nav mr-auto mt-md-0 ">
+                    <ul class="navbar-nav me-auto mt-md-0 ">
                         <!-- ============================================================== -->
                         <!-- Search -->
                         <!-- ============================================================== -->
 
                         <li class="nav-item hidden-sm-down">
-                            <form class="app-search pl-3">
+                            <form class="app-search ps-3">
                                 <input type="text" class="form-control" placeholder="Search for..."> <a
                                     class="srh-btn"><i class="ti-search"></i></a>
                             </form>
@@ -108,10 +103,10 @@
                         <!-- User profile and search -->
                         <!-- ============================================================== -->
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle waves-effect waves-dark" href="" data-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false"><img src="../assets/images/users/1.jpg"
-                                    alt="user" class="profile-pic mr-2">Markarn
-                                Doe</a>
+                            <a class="nav-link dropdown-toggle waves-effect waves-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <img src="../assets/images/users/1.jpg" alt="user" class="profile-pic me-2">Markarn Doe
+                            </a>
+                            <ul class="dropdown-menu show" aria-labelledby="navbarDropdown"></ul>
                         </li>
                     </ul>
                 </div>
@@ -131,27 +126,27 @@
                     <ul id="sidebarnav">
                         <!-- User Profile-->
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="index.html" aria-expanded="false"><i class="mr-3 far fa-clock fa-fw"
+                                href="index.html" aria-expanded="false"><i class="me-3 far fa-clock fa-fw"
                                     aria-hidden="true"></i><span class="hide-menu">Dashboard</span></a></li>
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
                                 href="pages-profile.html" aria-expanded="false">
-                                <i class="mr-3 fa fa-user" aria-hidden="true"></i><span
+                                <i class="me-3 fa fa-user" aria-hidden="true"></i><span
                                     class="hide-menu">Profile</span></a>
                         </li>
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="table-basic.html" aria-expanded="false"><i class="mr-3 fa fa-table"
+                                href="table-basic.html" aria-expanded="false"><i class="me-3 fa fa-table"
                                     aria-hidden="true"></i><span class="hide-menu">Table</span></a></li>
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="icon-fontawesome.html" aria-expanded="false"><i class="mr-3 fa fa-font"
+                                href="icon-fontawesome.html" aria-expanded="false"><i class="me-3 fa fa-font"
                                     aria-hidden="true"></i><span class="hide-menu">Icon</span></a></li>
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="map-google.html" aria-expanded="false"><i class="mr-3 fa fa-globe"
+                                href="map-google.html" aria-expanded="false"><i class="me-3 fa fa-globe"
                                     aria-hidden="true"></i><span class="hide-menu">Google Map</span></a></li>
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="pages-blank.html" aria-expanded="false"><i class="mr-3 fa fa-columns"
+                                href="pages-blank.html" aria-expanded="false"><i class="me-3 fa fa-columns"
                                     aria-hidden="true"></i><span class="hide-menu">Blank</span></a></li>
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="pages-error-404.html" aria-expanded="false"><i class="mr-3 fa fa-info-circle"
+                                href="pages-error-404.html" aria-expanded="false"><i class="me-3 fa fa-info-circle"
                                     aria-hidden="true"></i><span class="hide-menu">Error 404</span></a></li>
                         <li class="text-center p-20 upgrade-btn">
                             <a href="https://www.wrappixel.com/templates/monsteradmin/"
@@ -189,10 +184,11 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-4 align-self-center">
-                        <div class="text-right upgrade-btn">
-                            <a href="https://wrappixel.com/templates/monsteradmin/"
+                        <div class="text-end upgrade-btn">
+                            <a href="https://www.wrappixel.com/templates/monsteradmin/"
                                 class="btn btn-success d-none d-md-inline-block text-white" target="_blank">Upgrade to
                                 Pro</a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown"></ul>
                         </div>
                     </div>
                 </div>
@@ -234,7 +230,7 @@
             <!-- footer -->
             <!-- ============================================================== -->
             <footer class="footer text-center">
-                © 2020 Monster Admin by <a href="https://www.wrappixel.com/">wrappixel.com</a>
+                © 2021 Monster Admin by <a href="https://www.wrappixel.com/">wrappixel.com</a>
             </footer>
             <!-- ============================================================== -->
             <!-- End footer -->
@@ -252,8 +248,7 @@
     <!-- ============================================================== -->
     <script src="../assets/plugins/jquery/dist/jquery.min.js"></script>
     <!-- Bootstrap tether Core JavaScript -->
-    <script src="../assets/plugins/popper.js/dist/umd/popper.min.js"></script>
-    <script src="../assets/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="../assets/plugins/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/app-style-switcher.js"></script>
     <!--Wave Effects -->
     <script src="js/waves.js"></script>

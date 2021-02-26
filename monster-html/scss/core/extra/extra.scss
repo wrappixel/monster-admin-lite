@@ -114,7 +114,7 @@ File: scss
 @include media-breakpoint-down(xs) {
     .error-box {
         .error-body {
-            padding-top: 10%!important;
+            padding-top: 5%!important;
             .error-title {
                 font-size: 100px;
                 font-weight: 600;
@@ -216,7 +216,7 @@ File: scss
             font-size: 16px;
             color: #54667a;
         }
-        .form-control {
+        .form-control, .form-select {
             background-image: linear-gradient(#009efb, #009efb), linear-gradient(#d9d9d9, #d9d9d9);
             border: 0 none;
             border-radius: 0;

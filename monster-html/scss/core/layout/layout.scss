@@ -60,15 +60,11 @@
 
 
 
-
-
-
-
 /*******************
  Vertical responsive layout
 *******************/
 
-@include media-breakpoint-up(lg) {
+@include media-breakpoint-up(md) {
     #main-wrapper[data-layout="vertical"] {
 
         /*Vertical*/
@@ -92,9 +88,9 @@
         /*Vertical with mini-sidebar*/
         &[data-sidebartype="mini-sidebar"] {
             .topbar .top-navbar .navbar-header {
-                 width: $sidebar-width-full;
+                width: $sidebar-width-mini;
                 .logo-text {
-                    display: block;
+                    display: none;
                 }
                 &.expand-logo {
                     width: $sidebar-width-full;
@@ -103,9 +99,9 @@
                     }
                 }
             }
-            // .left-sidebar .upgrade-btn {
-            //     display: none;
-            // }
+            .left-sidebar .upgrade-btn {
+                display: none;
+            }
         }
         /*Fixed sidebar with minisidebar*/
         &[data-sidebar-position="fixed"][data-sidebartype="mini-sidebar"] {
@@ -115,19 +111,19 @@
         }
         &[data-sidebartype="mini-sidebar"] {
             .page-wrapper {
-                margin-left: $sidebar-width-full;
+                margin-left: $sidebar-width-mini;
             }
-            // .sidebar-nav {
-            //     .hide-menu,
-            //     .has-arrow:after {
-            //         display: none;
-            //     }
-            //     .nav-small-cap {
-            //         justify-content: center;
-            //     }
-            // }
+            .sidebar-nav {
+                .hide-menu,
+                .has-arrow:after {
+                    display: none;
+                }
+                .nav-small-cap {
+                    justify-content: center;
+                }
+            }
             .left-sidebar {
-                width: $sidebar-width-full;
+                width: $sidebar-width-mini;
                 // &:hover {
                 //     width: $sidebar-width-full;
                 //     .sidebar-nav {
@@ -145,7 +141,7 @@
     }
 }
 
-@include media-breakpoint-down(md) {
+@media(max-width:767px) {
     #main-wrapper {
         &[data-sidebartype="mini-sidebar"] {
             .left-sidebar {
@@ -177,3 +173,12 @@
     }
 }
 
+@include media-breakpoint-only(md) {
+    #main-wrapper {
+        &[data-sidebartype="mini-sidebar"] {
+            .sidebar-nav ul .sidebar-item {
+                width: 65px;
+            }
+        }
+    }
+}

@@ -1,24 +1,22 @@
-@import 'layout/layout'; 
+@import "layout/layout";
 
-@import 'scafholdings/scafholding';
+@import "scafholdings/scafholding";
 // Header
-@import 'loader/spinner';  
+@import "loader/spinner";
 // Header
-@import 'topbar/header'; 
-
+@import "topbar/header";
 
 // breadcrumb
-@import 'breadcrumb/breadcrumb';     
+@import "breadcrumb/breadcrumb";
 
 // sidebar
-@import 'sidebar/sidebar'; 
+@import "sidebar/sidebar";
 
 //wave effects
-@import 'wave-effects/wave-effects';
+@import "wave-effects/wave-effects";
 
 //wave effects
-@import 'buttons/buttons';
-
+@import "buttons/buttons";
 
 //extra
-@import 'extra/extra';
+@import "extra/extra";

@@ -4,106 +4,82 @@
 
 /*******************************/
 
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900');
-
-
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900");
 
 /*Theme Colors*/
 
-$themecolor: #2962FF;
+$themecolor: #2962ff;
 $themecolor-dark: #009efb;
-$themecolor-alt:#5cb3fd;
-$theme-light:#fff;
+$themecolor-alt: #5cb3fd;
+$theme-light: #fff;
 $theme-dark: #464a4c;
 
-$skin1:#2962FF;
-$skin2:#fe5419;
-$skin3:#00b0ff;
-$skin4:#6659f7;
-$skin5:#414755;
-$skin6:#fff;
-
-
+$skin1: #2962ff;
+$skin2: #fe5419;
+$skin3: #00b0ff;
+$skin4: #6659f7;
+$skin5: #414755;
+$skin6: #fff;
 
 /*Topbar Colors*/
 
-$topbar:linear-gradient(to right, #0178bc 0%, #00bdda 100%);
-$topbar-height:70px;
-$topbar-navlink-padding:0px 15px;
-$topbar-navlink-font-size:1.0625rem;
-$topbar-navlink-height:70px;
-$topbar-navbrand-padding:0 10px 0 10px;
-
-
+$topbar: linear-gradient(to right, #0178bc 0%, #00bdda 100%);
+$topbar-height: 70px;
+$topbar-navlink-padding: 0px 15px;
+$topbar-navlink-font-size: 1.0625rem;
+$topbar-navlink-height: 70px;
+$topbar-navbrand-padding: 0 10px 0 10px;
 
 /*Sidebar Colors*/
 
 $sidebar: $theme-light;
-$sidebar-alt:#f2f7f8;
+$sidebar-alt: #f2f7f8;
 $sidebar-text: #fff;
 $sidebar-icons: #fff;
-$sidebar-text-dark:#54667a;
+$sidebar-text-dark: #54667a;
 $sidebar-icons-dark: #a6b7bf;
 
-$sidebar-width-full:240px;
-$sidebar-width-iconbar:180px;
-$sidebar-width-mini:65px;   
-
-
+$sidebar-width-full: 240px;
+$sidebar-width-iconbar: 180px;
+$sidebar-width-mini: 65px;
 
 /*Boxed layout width*/
 
-$boxed-width:1200px;
-
-
+$boxed-width: 1200px;
 
 /*Shadow*/
 
-$shadow:1px 0px 20px rgba(0,
-0,
-0,
-0.08);
-
-
+$shadow: 1px 0px 20px rgba(0, 0, 0, 0.08);
 
 /*transitions*/
 
-$transitions:0.5s ease-in;
-
-
+$transitions: 0.5s ease-in;
 
 /*Dark transparent bg*/
 
-$transparent-dark-bg:rgba(0,
-0,
-0,
-0.05);
+$transparent-dark-bg: rgba(0, 0, 0, 0.05);
 
-$lft:left;
-$rgt:right;
-$card-alt:#e4e9ef;
+$lft: left;
+$rgt: right;
+$card-alt: #e4e9ef;
 
 %square {
-    border-radius: 0px
+  border-radius: 0px;
 }
 
-;
 %rotate45 {
-    transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
 }
-
-
 
 /*******************************/
 
 // Bootstrap overrides
 
 /*******************************/
-
 
 /**
  * Table Of Content
@@ -133,7 +109,7 @@ $gray-300: #dee2e6 !default;
 $gray-400: #ced4da !default;
 $gray-500: #90a4ae !default;
 $gray-600: #6c757d !default;
-$gray-700: #4F5467 !default;
+$gray-700: #4f5467 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
@@ -151,19 +127,21 @@ $cyan: #4fc3f7 !default;
 $primary: #7460ee !default;
 $text-muted: $gray-500 !default;
 
-$colors: ( blue: $blue,
-indigo: $indigo,
-purple: $purple,
-pink: $pink,
-red: $red,
-orange: $orange,
-yellow: $yellow,
-green: $green,
-teal: $teal,
-cyan: $cyan,
-white: $white,
-gray: $gray-600,
-gray-dark: $gray-800);
+$colors: (
+  blue: $blue,
+  indigo: $indigo,
+  purple: $purple,
+  pink: $pink,
+  red: $red,
+  orange: $orange,
+  yellow: $yellow,
+  green: $green,
+  teal: $teal,
+  cyan: $cyan,
+  white: $white,
+  gray: $gray-600,
+  gray-dark: $gray-800,
+);
 
 $primary: $blue !default;
 $secondary: $gray-600 !default;
@@ -176,19 +154,22 @@ $dark: $gray-800 !default;
 $cyan: $cyan !default;
 $orange: $orange !default;
 $theme-colors: () !default;
-$theme-colors: map-merge(( "primary": $primary,
-"secondary": $secondary,
-"success": $success,
-"info": $info,
-"warning": $warning,
-"danger": $danger,
-"light": $light,
-"dark": $dark,
-"cyan": $cyan,
-"orange": $orange,
-"purple": $purple),
-$theme-colors);
-
+$theme-colors: map-merge(
+  (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark,
+    "cyan": $cyan,
+    "orange": $orange,
+    "purple": $purple,
+  ),
+  $theme-colors
+);
 
 //
 // Quickly modify global styling by enabling or disabling optional features.
@@ -201,25 +182,22 @@ $enable-hover-media-query: false !default;
 $enable-grid-classes: true !default;
 $enable-print-styles: true !default;
 
-
 // Body
 //
 // Settings for the  element.
-$main-body-bg: #fff!default;
+$main-body-bg: #fff !default;
 $body-bg: #f2f7f8;
 $body-color: #54667a !default;
 $grid-gutter-width: 20px !default;
-
 
 // Typography
 //
 // Font, line-height, and color for body text, headings, and more.
 $font-size-base: 0.875rem;
-$font-family-sans-serif: 'Rubik',
-sans-serif !default;
+$font-family-sans-serif: "Rubik", sans-serif !default;
 $font-weight-light: 300 !default;
 $font-weight-normal: 400 !default;
-$font-weight-medium: 600 !default; 
+$font-weight-medium: 600 !default;
 $font-weight-bold: 800 !default;
 
 $h1-font-size: 36px !default;
@@ -233,22 +211,19 @@ $headings-margin-bottom: (1rem / 2) !default;
 $headings-font-weight: 700 !default;
 $headings-color: inherit !default;
 
-
-
 // Breadcrumbs
 $breadcrumb-bg: $body-bg;
 $breadcrumb-margin-bottom: 1.5rem;
 
 // Cards
-$card-border-width: 0px!default;
-$card-border-color: transparent!default;
+$card-border-width: 0px !default;
+$card-border-color: transparent !default;
 
 $card-border-radius: 0px !default;
 
-
 // Dropdowns
 $dropdown-item-padding-x: 1rem !default;
-$dropdown-item-padding-y: .65rem !default;
+$dropdown-item-padding-y: 0.65rem !default;
 $dropdown-border-color: $gray-200;
 $dropdown-divider-bg: $gray-100;
 
@@ -262,38 +237,27 @@ $progress-bg: $gray-100;
 $table-bg-accent: $gray-100;
 $table-bg-hover: $gray-100;
 $table-hover-bg: $gray-100 !default;
-$table-cell-padding: .75rem !default;
+$table-cell-padding: 0.75rem !default;
 $table-bg-level: -10 !default;
 $table-bg-level2: 1 !default;
 $table-bg-level3: -5 !default;
 // Components
 $component-active-color: $white !default;
 $component-active-bg: $themecolor !default;
-$badge-pill-padding-x: .2em !default;
+$badge-pill-padding-x: 0.2em !default;
 $badge-pill-padding-y: 1em !default;
-
 
 // Forms
 $input-group-addon-bg: $gray-100;
 $input-border-color: $gray-200;
 $input-group-addon-border-color: $gray-200;
-$input-btn-focus-color: rgba(0,
-0,
-0,
-.25) !default;
-$input-focus-border-color: rgba(0,
-0,
-0,
-0.25) !default;
-$custom-control-indicator-active-bg: rgba(0,
-0,
-0,
-35%) !default;
-$custom-select-indicator: url(../../assets/images/custom-select.png)!default;  
+$input-btn-focus-color: rgba(0, 0, 0, 0.25) !default;
+$input-focus-border-color: rgba(0, 0, 0, 0.25) !default;
+$custom-control-indicator-active-bg: rgba(0, 0, 0, 35%) !default;
+$custom-select-indicator: url(../../assets/images/custom-select.png) !default;
 $input-btn-focus-box-shadow: transparent !default;
 $custom-select-focus-box-shadow: transparent !default;
-$custom-select-indicator: str-replace(url(""),
-"%23") !default;
+$custom-select-indicator: str-replace(url(""), "%23") !default;
 //
 // Define common padding and border radius sizes and more.
 $border-width: 1px !default;
@@ -302,7 +266,6 @@ $border-color: $gray-200 !default;
 $border-radius: 2px !default;
 $border-radius-lg: 2px !default;
 $border-radius-sm: 1px !default;
-
 
 // Progress bars
 $progress-height: 5px !default;
@@ -313,14 +276,14 @@ $nav-tabs-link-active-bg: $white !default;
 //
 // Define the minimum dimensions at which your layout will change,
 // adapting to different screen sizes, for use in media queries.
-$grid-breakpoints: ( xs: 0,
-sm: 576px,
-md: 768px,
-lg: 992px,
-xl: 1600px) !default;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1600px,
+) !default;
 
 //Navbar
-$navbar-dark-color: rgba($white,
-.8) !default;
-$navbar-dark-hover-color: rgba($white,
-1) !default;
+$navbar-dark-color: rgba($white, 0.8) !default;
+$navbar-dark-hover-color: rgba($white, 1) !default;

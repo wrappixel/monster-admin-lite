@@ -1,7 +1,7 @@
 <!-- # monster-admin-lite -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://www.wrappixel.com/demos/free-admin-templates/monster-admin-lite/monster-html/index.html">Monster Bootstrap Admin Lite</a>
+  <a href="https://www.wrappixel.com/templates/monster-admin-lite/">Monster Bootstrap Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -60,7 +60,7 @@ Monster Bootstrap Admin Lite is fully responsive based on bootstrap framework an
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/monster-admin-lite/monster-html/index.html" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/monster-admin-lite/monster-html/index.html</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/monster-admin-lite/" rel="nofollow">
@@ -90,7 +90,7 @@ Monster Bootstrap Admin Lite is fully responsive based on bootstrap framework an
 </a>
 <p>
    Checkout our premium version of Monster Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/admin-templates/monster-bootstrap-latest/monster/src/main/">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/monster-bootstrap/package/html/main/">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->

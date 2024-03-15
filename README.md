@@ -1,112 +1,212 @@
-<!-- # monster-admin-lite -->
-<!-- Heading of Template -->
-<h1>
-  <a href="https://www.wrappixel.com/templates/monster-admin-lite/">Monster Bootstrap Admin Lite</a>
-</h1>
+# <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/html/index.html">Monster Admin Free</a>
+Monster Bootstrap Admin Dashboard
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-lite-y.jpg">
+<a target="_blank" href="https://www.wrappixel.com/templates/monster-admin-lite/">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-lite-y.jpg" />
 </a>
 
-<!-- Description of Template -->
-<p>
-Monster Bootstrap Admin Lite is fully responsive based on bootstrap framework and ready to use <a href="https://www.wrappixel.com/templates/category/admin-template/">dashboard template</a> for your web application.
-</p>
 
-<p>
-    Though it’s a free template but does wonder even for small instances. The simple and sober color palette it provides has the potential eye-catching vibrancy and capability to create data visualizations that are easy to read at no extra cost. This template is complete in itself for mid-level projects but if your concern is the comprehensive use of features and components then you can look for a premium bootstrap 5 admin dashboard template from WrapPixel.
-</p>
+# Compare with Premium Version 🌓
 
-<!-- <h4><a href="https://wrappixel.com/demos/free-admin-templates/monster-admin-lite/monster-html/index.html">Free Version Demo Link</a></h4> -->
-
-<!-- ## Pro Version -->
-
-<!-- <a href="https://www.wrappixel.com/templates/monsteradmin/"><img src="https://www.wrappixel.com/wp-content/uploads/2019/01/monster-admin-bootstrap-nw-1.jpg"/></a><br/>
-<h4><a href="https://www.wrappixel.com/demos/admin-templates/monster-admin/main/index2.html">Demo</a></h4> -->
-
-<!-- Versions of Template -->
-<h2><a id="user-content-versions" class="anchor" aria-hidden="true" href="#versions"></a>Versions</h2>
 <table>
 <thead>
 <tr>
-<th>Bootstrap</th>
-<th>React</th>
+<th>Monster Free Bootstrap Admin Version</th>
+<th>Monster Bootstrap Admin Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/html/index.html">Live Preview</a>
+  </td>
+  <td>
+  <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html">Live Preview</a>
+  </td>
+</tr>
+<tr>
+  <td>
+      <a href="https://www.wrappixel.com/templates/monster-admin-lite/">Download Now</a>
+  </td>
+  <td>
+    <a href="https://www.wrappixel.com/templates/monsteradmin/">Purchase Now</a>
+  </td>
+</tr>
+<tr>
+  <td>
+  1 Basic Dashboard
+  </td>
+  <td>
+  5+ Stunning Dashboards
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Dashboard Figma Files
+  </td>
+</tr>
+<tr>
+  <td>
+  Bootstrap 5 Version
+  </td>
+  <td>
+  Bootstrap 5 Version
+  </td>
+</tr>
+<tr>
+  <td>
+  Fully Responsive Pages
+  </td>
+  <td>
+  Fully Responsive Pages
+  </td>
+</tr>
+<tr>
+  <td>
+  7+ Pages Template
+  </td>
+  <td>
+  600+ Page Templates
+  </td>
+</tr>
+<tr>
+  <td>
+  10+ UI Components
+  </td>
+  <td>
+  500+ UI Components
+  </td>
+</tr>
+<tr>
+  <td>
+  No Documentation
+  </td>
+  <td>
+  Documentation Provided
+  </td>
+</tr>
+<tr>
+  <td>
+  Easy To Customize
+  </td>
+  <td>
+  Easy To Customize
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Right-to-Left(RTL) Verion
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+ 100+ Integrated Plugins
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  3+ Ready to Use App
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  1 Year Premium Support
+  </td>
+</tr>
+</tbody>
+</table>
+
+# Upgrade to Premium version
+
+<a target="_blank" href="https://www.wrappixel.com/templates/monsteradmin/">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg" alt="">
+</a>
+<p>
+  Checkout our premium version of Monster Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
+  <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
+</p>
+
+<!-- Versions of Template -->
+# Versions
+<table>
+<thead>
+<tr>
+<th>React Js</th>
 <th>Angular</th>
+<th>Next Js</th>
+<th>Vue Js</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/monsteradmin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg" alt="Monster Template  Bootstrap" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/monster-react-admin/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/monster-react-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg" alt="Monster Template  React" style="max-width:150px;">
-  </a>
-</td>
-  <td>
   <a href="https://www.wrappixel.com/templates/monster-angular-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-angular-admin-y.jpg" alt="Monster Template  Angular" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-angular-admin-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
+<td>
+  <a href="https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monsternextjs.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/monster-vuejs-admin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/2021/06/monster-vue-pro.jpg" alt="" style="max-width:150px;">
+  </a>
+</td>
+</td>
+  
 </tr>
 </tbody>
 </table>
 
-<!-- Resources of Template -->
-<h2>Resources</h2>
-<ul>
-<li>  
-  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html</a>
-</li>
-<li>
-    Download Page: <a href="https://www.wrappixel.com/templates/monster-admin-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/monster-admin-lite/</a>
-</li>
-<li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
-</li>
-</ul>
-
-<!-- Licensing of Template -->
-<h2>Licensing</h2>
-<ul>
-  <li>
-    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
-  </li>
-  <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
-  </li>
-</ul>
 
 
-<!-- Upgrade to Premium version of Template -->
-<h2>Upgrade to Premium version</h2>
-<a target="_blank" href="https://www.wrappixel.com/templates/monsteradmin/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg" />
-</a>
-<p>
-   Checkout our premium version of Monster Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/monster-bootstrap/package/html/main/">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
-</p>
+
 
 <!-- Useful Links of Template -->
-<h2>Useful Links</h2>
-<ul>
-<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Theme</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Bootstrap Themes</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Free Bootstrap Admin Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Dashboard Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Bootstrap Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vuejs Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Web Themes</a> from WrapPixel</li>
-</ul>
+# Useful Links
+- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
 
-<!-- Social Media of Wrappixel -->
-<h2>Social Media</h2>
-<p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
-<p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
-<p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+
+<!-- Licensing of Template -->
+# Licensing
+- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
+- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+
+
+<!-- Social Media of Adminmart -->
+# Social Media 👭🏼
+- <p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
+- <p>Linkedin: <a href="https://www.linkedin.com/company/wrappixel/">https://www.linkedin.com/company/wrappixel/</a></p>
+- <p>Github: <a href="https://github.com/wrappixel">https://github.com/wrappixel</a></p>
+- <p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
+- <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+- <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
+- <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
+

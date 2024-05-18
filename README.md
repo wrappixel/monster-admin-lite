@@ -22,7 +22,7 @@ Monster Bootstrap Admin Dashboard
     <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/html/index.html">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html">Live Preview</a>
+  <a href="https://bootstrapdemos.wrappixel.com/monster/dist/main/index.html">Live Preview</a>
   </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ Monster Bootstrap Admin Dashboard
   1 Basic Dashboard
   </td>
   <td>
-  5+ Stunning Dashboards
+  6+ Stunning Dashboards
   </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Monster Bootstrap Admin Dashboard
   7+ Pages Template
   </td>
   <td>
-  600+ Page Templates
+  500+ Page Templates
   </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ Monster Bootstrap Admin Dashboard
   -
   </td>
   <td>
-  3+ Ready to Use App
+  12+ Ready to Use App
   </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Monster Bootstrap Admin Dashboard
 </a>
 <p>
   Checkout our premium version of Monster Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/monster-bootstrap-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
+  <a href="https://bootstrapdemos.wrappixel.com/monster/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
 </p>
 
 <!-- Versions of Template -->

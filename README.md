@@ -30,7 +30,7 @@ Monster Bootstrap Admin Dashboard
       <a href="https://www.wrappixel.com/templates/monster-admin-lite/">Download Now</a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/monsteradmin/">Purchase Now</a>
+    <a href="https://www.wrappixel.com/templates/monsteradmin/?ref=33">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -134,12 +134,12 @@ Monster Bootstrap Admin Dashboard
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/monsteradmin/">
+<a target="_blank" href="https://www.wrappixel.com/templates/monsteradmin/?ref=33">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of Monster Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://bootstrapdemos.wrappixel.com/monster/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/">Download</a>
+  <a href="https://bootstrapdemos.wrappixel.com/monster/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/monsteradmin/?ref=33">Download</a>
 </p>
 
 <!-- Versions of Template -->

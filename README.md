@@ -147,7 +147,7 @@ Monster Bootstrap Admin Dashboard
 <table>
 <thead>
 <tr>
-<th>React Js</th>
+<th>Bootstrap</th>
 <th>Angular</th>
 <th>Next Js</th>
 <th>Vue Js</th>
@@ -156,18 +156,18 @@ Monster Bootstrap Admin Dashboard
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/monster-react-admin/" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/monsteradmin/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/monster-bootstrap-admin-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/monster-angular-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-angular-admin-y.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/monster-angular-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/monster-nextjs-admin-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/01/monsternextjs.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/monster-nextjs-admin-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
